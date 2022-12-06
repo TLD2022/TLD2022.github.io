@@ -5,7 +5,7 @@ The first Workshop on Toxic Language Detection (TLD) will be held in conjunction
 - Workshop date : 6 Dec 2022 (11AM - 4PM, Australian Western Standard Time (AWST / UTC+8)).
 - Workshop physical location : Hyatt Regency Perth
 - Hybrid mode for Teams : **(Swithed using from Zoom to Teams)**
-https://teams.microsoft.com/l/meetup-join/19:50e3826713444d07a163c197aa959507@thread.tacv2/1670218737206?context=%7B%22Tid%22:%2205894af0-cb28-46d8-8716-74cdb46e2226%22,%22Oid%22:%22b88f1cce-5096-4e47-a3e6-18ad619bef73%22%7D
+https://teams.microsoft.com/l/meetup-join/19%3a50e3826713444d07a163c197aa959507%40thread.tacv2/1669727949675?context=%7b%22Tid%22%3a%2205894af0-cb28-46d8-8716-74cdb46e2226%22%2c%22Oid%22%3a%22e63182cd-b1d3-4d4c-982e-367663671017%22%7d
 
 
 
